@@ -1,0 +1,31 @@
+body {
+	height: 100%;
+	padding-top: 125px;
+}
+
+section {
+	padding-top: 25px;
+}
+
+h1 {
+	color: white;
+}
+
+th {
+	color: white;
+	background: darkblue;
+}
+
+.navbar, .dropdown-menu {
+	background-color: darkblue;
+}
+
+.dropdown-item {
+	color: #d5d5d5;
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+	color: #dee2e6;
+	text-decoration: bold;
+	background-color: darkblue;
+} 
